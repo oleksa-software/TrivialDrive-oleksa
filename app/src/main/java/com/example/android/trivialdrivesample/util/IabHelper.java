@@ -191,6 +191,10 @@ public class IabHelper {
     public void enableDebugLogging(boolean enable) {
         checkNotDisposed();
         mDebugLog = enable;
+
+        //git test 19/03/17-13-06
+        boolean xshit=true;
+
     }
 
     /**
